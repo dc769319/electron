@@ -99,3 +99,4 @@ keyboard-lock-service-impl.patch
 make_--explicitly-allowed-ports_work_with_networkservice.patch
 fix_crashes_in_renderframeimpl_onselectpopupmenuitem_s.patch
 fix_re-entracy_problem_with_invalidateframesinkid.patch
+launch_child_processes_in_a_job_to_ensure_that_they_don_t_outlive_the.patch
